@@ -1,2 +1,2 @@
-# practice-of-mybatis
-mybatis练习
+# practice-of-jdbc
+jdbc尚硅谷练习
